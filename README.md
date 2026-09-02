@@ -1,4 +1,4 @@
-### Note:- "Due to Github file size limit,only a sample dataset of 5K rows is uploaded. Full dataset link available below"
+### Note:- "Due to Github file size limit,only a sample dataset of 1000 rows is uploaded. Full dataset link available below"
 # Python-Zomato-EDA-Project
 Analyze the Zomato restaurant dataset to understand customer preferences and business trends
 Identify factors influencing restaurant ratings, votes, and popularity
