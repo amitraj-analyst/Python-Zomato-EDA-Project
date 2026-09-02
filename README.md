@@ -4,6 +4,7 @@ Identify factors influencing restaurant ratings, votes, and popularity
 Explore cost distribution and its relationship with ratings
 
 ## Dataset Description
+### Download full dataset :- https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset
 Contains ~50,000 restaurant records from Zomato platform
 Columns include: name, location, cuisines, cost, rating, votes, restaurant type, etc.
 Data covers multiple cities and restaurant categories
